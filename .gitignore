@@ -1,0 +1,8 @@
+# Python virtual environment
+venv/
+
+# PyCharm config
+.idea/
+
+# Model logs directory
+model_logs/
